@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '31829'
     url: http://www.gutenberg.org/2009/agents/31829
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26147#Publications-of-the-Astronomical-Society-of-the-Pacific--13-Volume-1
 gutenberg_bookshelf: Astronomy
 gutenberg_issued: '2008-07-29'
 gutenberg_type: Text
