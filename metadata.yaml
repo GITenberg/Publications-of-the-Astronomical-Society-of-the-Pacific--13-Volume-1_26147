@@ -1,0 +1,26 @@
+_repo: Publications-of-the-Astronomical-Society-of-the-Pacific--13-Volume-1_26147
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Astronomical Society of the Pacific
+    gutenberg_agent_id: '31829'
+    url: http://www.gutenberg.org/2009/agents/31829
+description: ''
+gutenberg_bookshelf: Astronomy
+gutenberg_issued: '2008-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26147'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomical Society of the Pacific -- Periodicals'
+- !lcsh 'Astronomy -- Periodicals'
+title: "Publications of the Astronomical Society of the Pacific\r\nVolume 1"
+url: http://www.gutenberg.org/ebooks/26147
